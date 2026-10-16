@@ -1,16 +1,82 @@
-## Hi there 👋
+Hi, I'm Konstantin Dechev  
 
-<!--
-**KonstantR/KonstantR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Tester | Manual Testing | API Testing | Test Automation 
 
-Here are some ideas to get you started:
+I'm developing my skills in software quality assurance through practical projects and hands-on training at Software University (SoftUni). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus includes manual testing, API testing, UI automation, and software quality practices. 
+
+🛠️ Technical Skills 
+
+Manual Testing: Test Cases, Test Scenarios, Bug Reports, Functional Testing 
+
+API Testing: Postman, Newman, REST API 
+
+UI Automation: Selenium WebDriver with C#, Playwright with JavaScript 
+
+Test Frameworks: NUnit 
+
+Programming: C#, JavaScript 
+
+Unit Testing: NUnit, Mocking 
+
+CI/CD: GitHub Actions and CI/CD fundamentals 
+
+Tools: Visual Studio, VS Code, Git, GitHub 
+
+📂 My Projects 
+
+🔹 IdeaCenter — API Testing 
+
+API testing project using Postman and Newman. 
+
+API requests and automated response validations 
+
+Collection execution with Newman 
+
+HTML test report 
+
+View Project 
+
+🔹 QA-Playwright 
+
+Repository for Playwright browser automation practice. 
+
+View Project 
+
+🔹 CI/CD Exercise 2026 
+
+Practical exercises related to CI/CD workflows. 
+
+View Project 
+
+🔹 SoftUni Courses 
+
+Exercises and projects from my education at Software University. 
+
+View Project 
+
+🎯 Current Learning Goals 
+
+Expanding my manual testing skills 
+
+Improving API testing with Postman and Newman 
+
+Developing UI automation tests with Selenium and Playwright 
+
+Strengthening my C# and JavaScript skills 
+
+Improving my understanding of CI/CD workflows 
+
+📫 Contact 
+
+LinkedIn: Konstantin Dechev 
+
+Email: konstantindechev9@gmail.com 
+
+ 
+
+Continuously learning, practicing, and building my QA portfolio. 
+
+
+
