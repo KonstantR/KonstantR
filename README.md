@@ -1,6 +1,3 @@
-
-# Hi, I'm Konstantin Dechev 
-
 ### Junior QA Tester | Manual Testing | API Testing | Test Automation
 
 I'm developing my skills in software quality assurance through practical projects and hands-on training at Software University (SoftUni).
