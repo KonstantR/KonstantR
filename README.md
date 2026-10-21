@@ -16,7 +16,15 @@ My focus includes manual testing, API testing, UI automation, and software quali
 - **Tools:** Visual Studio, VS Code, Git, GitHub
 
 ## 📂 My Projects
+### 🔹 Trello API — API Testing
 
+API testing project using Postman and the Trello REST API.
+
+- API requests and automated response validations
+- Working with boards, lists, and cards
+- CRUD operations and response validation
+
+[View Project — Trello API](https://github.com/KonstantR/Trello-API-Testing)
 ### 🔹 IdeaCenter — API Testing
 
 API testing project using Postman and Newman.
